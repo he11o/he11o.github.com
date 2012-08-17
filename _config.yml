@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Available vs Temporary
-tagline: 利用できる と 一時
+tagline: 利用できる 一時
 author :  
   name : Tim Chaos
   email : tim@quantive.co
