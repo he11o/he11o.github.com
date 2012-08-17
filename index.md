@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Available vs Temporary
 tagline: 
 ---
 {% include JB/setup %}
