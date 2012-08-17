@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Available vs Temporary!
-tagline: 利用できる 一時
+title: 
+tagline: 
 ---
 {% include JB/setup %}
-
-
 
 <ul class="posts">
   {% for post in site.posts %}
