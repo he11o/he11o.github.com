@@ -1,2 +1,5 @@
 _site/
 .DS*
+_theme_packages/the-minimum/
+
+_theme_packages/tom/
