@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Install QRcode static library in iOS"
+title: "如何在iOS上使用QRcode静态库"
 description: ""
-category: 
-tags: []
+category: devel
+tags: [iOS, toolchain, lessons]
 ---
 {% include JB/setup %}
 
